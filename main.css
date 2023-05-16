@@ -1,1 +1,4 @@
-body {background-color: lightgoldenrodyellow} /*or any color of your choosing*/
+body {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+} /*or any color of your choosing*/
